@@ -39,7 +39,7 @@ const Catalog = ({ clothes }) => {
                 >
                   <img
                     src={wear.clothImgUri}
-                    alt="wear-picture"
+                    alt="wear"
                     className="catalog-card-image"
                   />
                 </div>

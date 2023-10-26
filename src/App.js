@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import "./App.css";
 import Navbar from "./components/Navbar";
 import Catalog from "./components/Catalog";
@@ -8,7 +8,7 @@ import "@fontsource/roboto/500.css";
 import "@fontsource/roboto/700.css";
 
 function App() {
-  const [clothes, setClothes] = React.useState(null);
+  const [clothes, setClothes] = useState(null);
 
   React.useEffect(() => {
     fetch("http://localhost:8000/clothes")

@@ -15,6 +15,8 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "concurrently": "^8.2.2",
+    "json-server": "^0.17.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -22,7 +24,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "npm install json-server && json-server --watch datd/db.json --port 8000 && react-scripts start ",
+    "start": "npm install json-server concurrently && concurrently --names 'SERVER,CLIENT' --prefix-colors 'yellow,blue' --kill-others 'json-server data/db.json --port 8000' 'react-scripts start' ",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
