@@ -1,0 +1,7 @@
+.fullbody-image__container{
+    position: fixed;
+    bottom:15%;
+    left: 60%;
+    z-index: 1;
+    scale:1.3;
+}

@@ -1,0 +1,64 @@
+.navbar__container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2rem;
+  margin-top: 1rem;
+  width: 100%;
+  font-family: roboto;
+  font-size: 0.8em;
+}
+
+.navbar-back-filter__container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 2rem;
+}
+
+.nabvar-cart__container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 2rem;
+  color: #f9f0fd;
+}
+
+.navbar-back__button {
+  background-color: #dedbec;
+  border-radius: 1rem;
+  padding: 0 1rem 0 1rem;
+}
+.navbar-back__button:hover {
+  background-color: #674aa256;
+}
+.navbar-filter__button:hover {
+  background-color: #674aa256;
+}
+.navbar-filter__button {
+  background-color: #dedbec;
+  border-radius: 1rem;
+  padding: 0 1rem 0 1rem;
+}
+
+.nabvar-cart__button {
+  width: 10rem;
+  margin-right: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem;
+}
+.nabvar-cart__button:hover {
+    scale: 1.25;
+    background-color: #dedbec6b;
+    border-radius: 1rem;
+  }
+.nabvar-cart__AddedToCart {
+  background-color: #d7b900;
+  border-radius: 0.8rem;
+  padding: 0.4rem 0.8rem 0.4rem 0.8rem;
+  color: black;
+  font-weight: 600;
+}

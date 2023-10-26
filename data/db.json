@@ -1,0 +1,104 @@
+{
+    "clothes" : [
+        {   
+            "id" : 1,
+            "brand": "Family Clothing®️",
+            "name": "Soft blue hoodie",
+            "price": 49.99,
+            "favorite" : true,
+            "description" : "Lorem Ipsum",
+            "cardColor" : "#39527f75",
+            "clothImgUri" : "https://github.com/AugustoCarrasco/pt-48-augusto-carrasco-images/blob/main/shirt-1.png?raw=true",
+            "fullBodyImgUri" : "https://raw.githubusercontent.com/AugustoCarrasco/pt-48-augusto-carrasco-images/main/shirt-body-1.png"
+        },
+        {
+            "id" : 2,
+            "brand": "Family Clothing®️",
+            "name": "Light Blue Wool",
+            "price": 69.99,
+            "favorite" : true,
+            "description" : "Lorem Ipsum",
+            "cardColor" : "#83a7ff75",
+            "clothImgUri" : "https://github.com/AugustoCarrasco/pt-48-augusto-carrasco-images/blob/main/shirt-2.png?raw=true",
+            "fullBodyImgUri" : "https://raw.githubusercontent.com/AugustoCarrasco/pt-48-augusto-carrasco-images/main/shirt-body-2.png"
+        },
+        {
+            "id" : 3,
+            "brand": "Family Clothing®️",
+            "name": "Light Gray Knitted",
+            "price": 35.99,
+            "favorite" : true,
+            "description" : "Lorem Ipsum",
+            "cardColor" : "#c3afc375",
+            "clothImgUri" : "https://github.com/AugustoCarrasco/pt-48-augusto-carrasco-images/blob/main/shirt-3.png?raw=true",
+            "fullBodyImgUri" : "https://raw.githubusercontent.com/AugustoCarrasco/pt-48-augusto-carrasco-images/main/shirt-body-3.png"
+        },
+        {
+            "id" : 4,
+            "brand": "Wear your way®️",
+            "name": "Rock ya rat!",
+            "price": 79.99,
+            "favorite" : true,
+            "description" : "Lorem Ipsum",
+            "cardColor" : "#585c6750",
+            "clothImgUri" : "https://github.com/AugustoCarrasco/pt-48-augusto-carrasco-images/blob/main/shirt-4.png?raw=true",
+            "fullBodyImgUri" : "https://raw.githubusercontent.com/AugustoCarrasco/pt-48-augusto-carrasco-images/main/shirt-body-4.png"
+        },
+        {
+            "id" : 5,
+            "brand": "Family Clothing®️",
+            "name": "Mandala shirt",
+            "price": 25.99,
+            "favorite" : true,
+            "description" : "Lorem Ipsum",
+            "cardColor" : "#65656570",
+            "clothImgUri" : "https://github.com/AugustoCarrasco/pt-48-augusto-carrasco-images/blob/main/shirt-5.png?raw=true",
+            "fullBodyImgUri" : "https://raw.githubusercontent.com/AugustoCarrasco/pt-48-augusto-carrasco-images/main/shirt-body-5.png"
+        },
+        {
+            "id" : 6,
+            "brand": "Wear your way®️",
+            "name": "Work that out!",
+            "price": 22.99,
+            "favorite" : true,
+            "description" : "Lorem Ipsum",
+            "cardColor" : "#ffbcca70",
+            "clothImgUri" : "https://github.com/AugustoCarrasco/pt-48-augusto-carrasco-images/blob/main/shirt-6.png?raw=true",
+            "fullBodyImgUri" : "https://raw.githubusercontent.com/AugustoCarrasco/pt-48-augusto-carrasco-images/main/shirt-body-6.png"
+        },
+        {
+            "id" : 7,
+            "brand": "Family Clothing®️",
+            "name": "Waving Blouse",
+            "price": 55.99,
+            "favorite" : true,
+            "description" : "Lorem Ipsum",
+            "cardColor" : "#008bba70",
+            "clothImgUri" : "https://github.com/AugustoCarrasco/pt-48-augusto-carrasco-images/blob/main/shirt-7.png?raw=true",
+            "fullBodyImgUri" : "https://raw.githubusercontent.com/AugustoCarrasco/pt-48-augusto-carrasco-images/main/shirt-body-7.png"
+        },
+        {
+            "id" : 8,
+            "brand": "Wear your way®️",
+            "name": "Sunset reminders",
+            "price": 19.99,
+            "favorite" : true,
+            "description" : "Lorem Ipsum",
+            "cardColor" : "#ffa3a070",
+            "clothImgUri" : "https://github.com/AugustoCarrasco/pt-48-augusto-carrasco-images/blob/main/shirt-8.png?raw=true",
+            "fullBodyImgUri" : "https://raw.githubusercontent.com/AugustoCarrasco/pt-48-augusto-carrasco-images/main/shirt-body-8.png"
+        },
+        {
+            "id" : 9,
+            "brand": "Wear your way®️",
+            "name": "Reign by plain",
+            "price": 36.99,
+            "favorite" : true,
+            "description" : "Lorem Ipsum",
+            "cardColor" : "#cd4c4970",
+            "clothImgUri" : "https://github.com/AugustoCarrasco/pt-48-augusto-carrasco-images/blob/main/shirt-9.png?raw=true",
+            "fullBodyImgUri" : "https://raw.githubusercontent.com/AugustoCarrasco/pt-48-augusto-carrasco-images/main/shirt-body-9.png"
+        }
+
+    ]
+}
